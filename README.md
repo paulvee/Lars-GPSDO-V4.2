@@ -9,4 +9,4 @@ I may change the sensor to an LM35 type to reduce the code size should that be n
 A lot of detail can be found on my Blog here: https://www.paulvdiyblogs.net/2023/06/gpsdo-version-4.html
 Be sure to visit that regularly because I'm not done with the project yet.
 
-The boards can be ordered through PCBWay, where I have started a Shared Project. Search for DIY GPSDO. At this moment that is still under review.
+The boards can be ordered through PCBWay, or the Gerbers downloaded. I have created a Shared Project. Search for DIY GPSDO. At this moment that entry is still under review.
