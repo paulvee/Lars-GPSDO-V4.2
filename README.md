@@ -1,12 +1,11 @@
-# Lars-GPSDO-V4.1
+# Lars-GPSDO-V4.2
 This is a significant improvement to the first version that can be found in a different repository
 
 The BOM's are of limited value because I do not specify the actual mfg partnumbers that can be ordered. I merely specify the value and the footprint.
 
-The Arduino Nano sketch has a number of improvements, most notably the support for obtaining the Qerr value from the NEO, the automatic TC functionality and support for a DS18B20 temperature sensor.
-I may change the sensor to an LM35 type to reduce the code size should that be needed.
+The Arduino Nano sketch has a number of improvements, most notably the support for obtaining the Qerr value from the NEO, the automatic TC functionality, support for a room temperature sensor and a real 16-bit DAC.
 
 A lot of detail can be found on my Blog here: https://www.paulvdiyblogs.net/2023/06/gpsdo-version-4.html
-Be sure to visit that regularly because I'm not done with the project yet.
+Be sure to visit that regularly to see if there any updates.
 
-The boards can be ordered through PCBWay, or the Gerbers downloaded. I have created a Shared Project. Search for DIY GPSDO. 
+The boards can be ordered through PCBWay, or the Gerbers can be downloaded there. I have created a Shared Project. Search for DIY GPSDO. 
