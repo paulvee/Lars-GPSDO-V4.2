@@ -7,6 +7,6 @@ The BOM's are of limited value because I do not specify the actual mfg partnumbe
 The Arduino Nano sketch has a number of improvements, most notably the support for obtaining the Qerr value from the NEO, the automatic TC functionality, support for a room temperature sensor and a real 16-bit DAC.
 
 A lot of detail can be found on my Blog here: https://www.paulvdiyblogs.net/2023/06/gpsdo-version-4.html
-Be sure to visit that regularly to see if there any updates.
+Be sure to visit that regularly to see if there are any updates.
 
 The boards can be ordered through PCBWay, or the Gerbers can be downloaded there. I have created a Shared Project. Search for DIY GPSDO. 
