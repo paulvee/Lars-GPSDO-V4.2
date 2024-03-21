@@ -12,3 +12,4 @@ Be sure to visit that regularly to see if there are any updates.
 The boards can be ordered through PCBWay, or the Gerbers can be downloaded there. I have created a Shared Project. Search for DIY GPSDO. 
 PCBway had some questions about the parts they used for a customer that wanted a full assembly. I added comments to a document that they used to ask for my input.
 The Q&A documents is called "QA for BOM 10MHz GPSDO V4.2.pdf"
+I also included the Centroid files for both sides, they have the .pos suffix
