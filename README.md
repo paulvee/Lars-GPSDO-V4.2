@@ -13,3 +13,5 @@ The boards can be ordered through PCBWay, or the Gerbers can be downloaded there
 PCBway had some questions about the parts they used for a customer that wanted a full assembly. I added comments to a document that they used to ask for my input.
 The Q&A documents is called "QA for BOM 10MHz GPSDO V4.2.pdf"
 I also included the Centroid files for both sides, they have the .pos suffix
+
+It seems that JLPCB is not happy with the standard Gerber information, so I produced a special ZIP file that was produced with their "production" plug-in for KiCad. It should have all the information in it they want. Note that I also added the seperate files into the Gerber ZIP file so it can be uploaded in one go.
