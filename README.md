@@ -14,4 +14,4 @@ PCBway had some questions about the parts they used for a customer that wanted a
 The Q&A documents is called "QA for BOM 10MHz GPSDO V4.2.pdf"
 I also included the Centroid files for both sides, they have the .pos suffix
 
-It seems that JLCPCB is not happy with the standard Gerber information, so I produced a special ZIP file that was produced with their "production" plug-in for KiCad. It should have all the information in it they want. Note that I also added the seperate files into the Gerber ZIP file so it can be uploaded in one go.
+It seems that JLCPCB is not happy with the standard Gerber information, so I produced a special ZIP file that was produced with their "production" plug-in for KiCad. It should have all the information in it they want. The JLCPCB Zip file contains the Gerber Zip file you need to upload and that has the extra files in it so you can upload everything in one go.
