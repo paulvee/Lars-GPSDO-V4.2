@@ -53,7 +53,7 @@
 "52,"""","""",""FB4"",""BLM21AH102SN1D"",""L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"",1"
 "53,"""","""",""FB5"",""BLM41PF800SN1L"",""L_1806_4516Metric_Pad1.45x1.90mm_HandSolder"",1"
 "54,"""","""",""H1"",""GND"",""MountingHole_3.2mm_M3_DIN965_Pad_TopBottom"",1"
-"55,"""","""",""RV2"",""2K"",""Potentiometer_Bourns_3224W_Vertical"",1"
+"55,"""","""",""RV2"",""2K"",""Potentiometer_Bourns_3224W_Vertical"",1,   ""3224W-1-202E"""
 "56,"""","""",""TP1"",""f-Adjust"",""TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded"",1"
 "57,"""","""",""TP2"",""PCB Temp"",""TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded"",1"
 "58,"""","""",""TP3"",""Heater Reg"",""TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded"",1"
